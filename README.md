@@ -72,4 +72,4 @@ RumahSakit/
 
 ## 📝 Lisensi
 
-Tugas akademik - UTS Pemrograman Web Service
+Tugas akademik - UAS Pemrograman Web Service
