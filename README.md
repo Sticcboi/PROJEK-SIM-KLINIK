@@ -1,7 +1,7 @@
 # SIM-KLINIK
 ## Sistem Informasi Manajemen Klinik
 
-**Tugas UTS Pemrograman Web Service**
+**Tugas UAS Pemrograman Web Service**
 
 - **NIM:** 23.01.53.0017
 - **Nama:** Firman Andre Setiawan
